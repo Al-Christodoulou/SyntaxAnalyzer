@@ -10,6 +10,8 @@ M → -K | +K | e
 ```
 where e is a null character.
 
+The program prints the syntax analyzation process and its corresponding binary tree form in a preorder traversal format.
+
 Example screenshots:
 
 <p float="left">
