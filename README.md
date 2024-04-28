@@ -1,6 +1,8 @@
 # Syntax Analyzer
 A basic C++ syntax analyzer based on a simple grammar.
 
+Date of creation: January 2023
+
 The grammar is shown below. Lowercase letters indicate terminal symbols.
 ```
 Z → (K)
